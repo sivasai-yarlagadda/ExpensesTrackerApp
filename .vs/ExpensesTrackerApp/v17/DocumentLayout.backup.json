@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\views\\transactions\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:views\\transactions\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\models\\expensetrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:models\\expensetrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|c:\\users\\roblogix_sw09_user\\source\\repos\\siva\\expensestrackerapp\\expensestrackerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EC55257-BEA9-460A-A0C8-0583C4A6BAA1}|ExpensesTrackerApp.csproj|solutionrelative:expensestrackerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1272,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T07:53:22.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T07:46:22.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Create.cshtml.cs",
+              "RelativeToolTip": "Views\\Transactions\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:41:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T07:25:41.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:24:40.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T07:21:00.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T07:20:41.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Create.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T07:16:18.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T07:15:45.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:14:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Models\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "Models\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:49:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:20:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T06:19:58.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExpenseTrackerContext.cs",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Models\\ExpenseTrackerContext.cs",
+              "RelativeDocumentMoniker": "Models\\ExpenseTrackerContext.cs",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Models\\ExpenseTrackerContext.cs",
+              "RelativeToolTip": "Models\\ExpenseTrackerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:18:04.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:17:49.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:17:37.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExpensesTrackerApp.csproj",
+              "DocumentMoniker": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\ExpensesTrackerApp.csproj",
+              "RelativeDocumentMoniker": "ExpensesTrackerApp.csproj",
+              "ToolTip": "C:\\Users\\roblogix_sw09_user\\source\\repos\\Siva\\ExpensesTrackerApp\\ExpensesTrackerApp.csproj",
+              "RelativeToolTip": "ExpensesTrackerApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T06:04:37.173Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 911,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

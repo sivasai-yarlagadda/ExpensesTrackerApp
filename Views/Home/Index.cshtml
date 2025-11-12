@@ -1,0 +1,116 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container mt-4">
+    <h2>Dashboard</h2>
+
+    <!-- Date Range Filter -->
+    <form method="get" id="filterForm" asp-controller="Home" asp-action="Index" class="row mb-4">
+        <div class="col-md-3">
+            <label>From:</label>
+            <input type="date" name="fromDate" class="form-control" value="@ViewBag.FromDate" />
+        </div>
+        <div class="col-md-3">
+            <label>To:</label>
+            <input type="date" name="toDate" class="form-control" value="@ViewBag.ToDate" />
+        </div>
+        <div class="col-md-3 d-flex align-items-end">
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </div>
+    </form>
+
+    <!-- Summary Cards -->
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card text-bg-success mb-3">
+                <div class="card-body text-center">
+                    <h3>Total Income</h3>
+                    <h3>₹@(((decimal)ViewBag.TotalIncome).ToString("N2"))</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-bg-danger mb-3">
+                <div class="card-body text-center">
+                    <h3>Total Expense</h3>
+                    <h3>₹@(((decimal)ViewBag.TotalExpense).ToString("N2"))</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-bg-primary mb-3">
+                <div class="card-body text-center">
+                    <h3>Balance</h3>
+                    <h3>₹@(((decimal)ViewBag.Balance).ToString("N2"))</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Charts -->
+    <div class="row mt-5">
+        <div class="col-md-6">
+            <h4 class="text-center">Income vs Expense</h4>
+            <canvas id="summaryChart" height="100"></canvas>
+        </div>
+        <div class="col-md-6">
+            <h4 class="text-center">Category-wise Expenses</h4>
+            <canvas id="categoryChart" height="100"></canvas>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Doughnut Chart (Income vs Expense)
+    const ctx1 = document.getElementById('summaryChart');
+    new Chart(ctx1, {
+        type: 'doughnut',
+        data: {
+            labels: ['Income', 'Expense'],
+            datasets: [{
+                data: [@ViewBag.TotalIncome, @ViewBag.TotalExpense],
+                backgroundColor: ['#198754', '#dc3545']
+            }]
+        },
+        options: {
+            plugins: {
+                legend: { position: 'bottom' },
+                tooltip: {
+                    callbacks: {
+                        label: (context) => '₹' + context.parsed.toLocaleString('en-IN')
+                    }
+                }
+            }
+        }
+    });
+
+    // Bar Chart (Category-wise Expenses)
+    const ctx2 = document.getElementById('categoryChart');
+    new Chart(ctx2, {
+        type: 'bar',
+        data: {
+            labels: [@Html.Raw(ViewBag.CatLabels)],
+            datasets: [{
+                label: 'Expenses by Category',
+                data: [@ViewBag.CatValues],
+                backgroundColor: '#0d6efd'
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        callback: (value) => '₹' + value.toLocaleString('en-IN')
+                    }
+                }
+            },
+            plugins: { legend: { display: false } }
+        }
+    });
+</script>

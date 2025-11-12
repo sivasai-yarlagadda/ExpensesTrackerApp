@@ -1,0 +1,41 @@
+﻿@model ExpenseTrackerApp.Models.Transaction
+@{
+    var categories = ViewBag.Categories as List<ExpenseTrackerApp.Models.Category>;
+}
+
+<div class="container mt-4">
+    <h2>Add Transaction</h2>
+
+    <form asp-action="Create" method="post">
+        <div class="mb-3">
+            <label>Description</label>
+            <input asp-for="Description" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Amount</label>
+            <input asp-for="Amount" class="form-control" step="0.01" min="0.01" />
+        </div>
+        <div class="mb-3">
+            <label>Date</label>
+            <input asp-for="Date" type="date" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Type</label>
+            <select asp-for="Type" class="form-select">
+                <option>Income</option>
+                <option>Expense</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label>Category</label>
+            <select asp-for="CategoryId" class="form-select">
+                @foreach (var cat in categories)
+                {
+                    <option value="@cat.Id">@cat.Name</option>
+                }
+            </select>
+        </div>
+        <button type="submit" class="btn btn-success">Save</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
