@@ -15,7 +15,7 @@ It allows you to:
 - **Frontend:** Razor Views (Bootstrap + Chart.js)
 - **Backend:** ASP.NET Core MVC (.NET 8)
 - **Database:** MySQL (via Pomelo.EntityFrameworkCore.MySql)
-- **ORM:** Entity Framework Core (Code-First)
+- **ORM:** Entity Framework Core (Model-First)
 - **IDE:** Visual Studio Code
 
 ---
